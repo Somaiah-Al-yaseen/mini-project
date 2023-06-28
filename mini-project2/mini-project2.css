@@ -306,9 +306,52 @@ font-family: 'Oswald', sans-serif;
 background-image: url(map.jpg);
 background-size: cover;
 }
+.qqq {
+  text-align: center;
+  display: inline-block;
+  font-size: x-large;
+  font-family: 'Oswald', sans-serif;
+color: rgb(237, 207, 207);
+font-weight: bold;
+}
+footer {
+  background-color:#8b9dbb;
+  margin-top: 5%;
+  margin-bottom: 0;
+  padding-top: 7%;
+}
 .foot {
   width: 70%;
 }
 .flexcoluo {
-  margin: 7%;
+  margin-left: 45%;
+}
+.flexx {
+  display: flex;
+  margin-left: 27%;
+}
+.flexxx {
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding-top: 30px;
+}
+.yyy {
+  font-size: larger;
+  color: rgb(237, 207, 207);
+  margin-left: 27%;
+  font-family: 'Oswald', sans-serif;
+}
+.flexxxx {
+  display: flex;
+  margin-left: 27%;
+
+}
+.uuu {
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding-top: 30px;
 }
