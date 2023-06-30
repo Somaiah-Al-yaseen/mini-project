@@ -15,7 +15,8 @@ h2 {
   font-family: 'Oswald', sans-serif;
 }
 a:hover {
-  background-color: #111;
+  background-color: #616D82;
+  color: #f2f5fc;
 }
 li {
   list-style: none;
@@ -311,7 +312,7 @@ background-size: cover;
   display: inline-block;
   font-size: x-large;
   font-family: 'Oswald', sans-serif;
-color: rgb(237, 207, 207);
+color: white;
 font-weight: bold;
 }
 footer {
@@ -339,7 +340,7 @@ footer {
 }
 .yyy {
   font-size: larger;
-  color: rgb(237, 207, 207);
+  color: white;
   margin-left: 27%;
   font-family: 'Oswald', sans-serif;
 }
